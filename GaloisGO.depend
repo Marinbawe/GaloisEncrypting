@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1655397761 source:g:\coding stuff\cb\galoisgo\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+
+1657791794 source:g:\coding stuff\cb\galois\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+	<ctype.h>
+
